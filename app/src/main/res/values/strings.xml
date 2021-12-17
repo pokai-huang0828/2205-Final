@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">CSTP2205-final</string>
+
+    <!--Screen Name-->
+    <string name="splash_screen">SplashScreen</string>
+    <string name="main_screen">MainScreen</string>
+    <string name="sign_in_screen">SignInScreen</string>
+    <string name="sign_up_screen">SignUpScreen</string>
+    <string name="share_trees_screen">ShareTreesScreen</string>
+
+    <!--Mapbox default public token-->
+    <string name="mapbox_access_token">pk.eyJ1IjoicG9rYWlodWFuZyIsImEiOiJja3Z3b2RmZHozM3hrMzJtb3YyNXJhMHE2In0.NmxoiNf2EjpFguklS_64QQ</string>
+
 </resources>
